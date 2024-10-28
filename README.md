@@ -3,10 +3,10 @@
 [![Help](https://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/forum/help-1)
 [![Nightly Builds](https://img.shields.io/badge/master-nightly-875A7B.svg?style=flat&colorA=8F8F8F)](https://nightly.odoo.com/)
 
-Odoo
+Velox
 ----
 
-Velox is a suite of web based open source odoo business apps.
+Velox is a suite of web based open source ve.l business apps.
 
 The main Velox Apps include an <a href="https://www.odoo.com/page/crm">Open Source CRM</a>,
 <a href="https://www.odoo.com/app/website">Website Builder</a>,
@@ -20,13 +20,13 @@ The main Velox Apps include an <a href="https://www.odoo.com/page/crm">Open Sour
 <a href="https://www.odoo.com/app/manufacturing">Manufacturing</a>,
 <a href="https://www.odoo.com/">...</a>
 
-Odoo Apps can be used as stand-alone applications, but they also integrate seamlessly so you get
+velox Apps can be used as stand-alone applications, but they also integrate seamlessly so you get
 a full-featured <a href="https://www.odoo.com">Open Source ERP</a> when you install several Apps.
 
-Getting started with Odoo
+Getting started with velox
 -------------------------
 
 For a standard installation please follow the <a href="https://www.odoo.com/documentation/master/administration/install/install.html">Setup instructions</a>
 from the documentation.
 
-To learn the software, we recommend the <a href="https://www.odoo.com/slides">Odoo eLearning</a>, or <a href="https://www.odoo.com/page/scale-up-business-game">Scale-up</a>, the <a href="https://www.odoo.com/page/scale-up-business-game">business game</a>. Developers can start with <a href="https://www.odoo.com/documentation/master/developer/howtos.html">the developer tutorials</a>
+To learn the software, we recommend the <a href="https://www.odoo.com/slides">velox eLearning</a>, or <a href="https://www.odoo.com/page/scale-up-business-game">Scale-up</a>, the <a href="https://www.odoo.com/page/scale-up-business-game">business game</a>. Developers can start with <a href="https://www.odoo.com/documentation/master/developer/howtos.html">the developer tutorials</a>
